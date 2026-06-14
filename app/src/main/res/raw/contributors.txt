@@ -14,6 +14,7 @@ Katharine Chui / Katie
 mondstern
 IllusiveMan196
 Silvério Santos
+Максим Горпиніч
 Edgars Andersons
 Altonss
 Joel A
@@ -23,44 +24,42 @@ Fjuro
 GitSpoon
 Priit Jõerüüt
 Eric
-Максим Горпиніч
 GM
-Petr Novák
 laralem
-Горпиніч Максим Олександрович
+Petr Novák
 Taco
 nadiafekihahmed
 pfaffenrodt
 Aayush Gupta
 Scrambled777
 josé m
-Nyatsuki
-ikanakova
 Vasilis
+ikanakova
+Nyatsuki
 Kachelkaiser
-Milo Ivir
-Jiri Grönroos
 Giovanni Donisi
+Jiri Grönroos
+Milo Ivir
 HudobniVolk
 Warder
 Samantaz Fox
 109247019824
 Balázs Meskó
 AMIR-G98
-Feike Donia
-Arno-github
 Cliff Heraldo
 Sergio Paredes
 Ankit Tiwari
+Feike
+Arno-github
 Jose Delvani
-Robin
 Milan Šalka
 mdvhimself
+Robin
 damjang
-Govindgopalyadav
-Skrripy
-huuhaa
 தமிழ்நேரம்
+huuhaa
+Skrripy
+Govindgopalyadav
 waffshappen
 Marnick L'Eau
 ngocanhtve
@@ -95,7 +94,7 @@ Andre Costa
 arshbeerSingh
 Augustin LAVILLE
 Freddo espresso
-Vasudev R.
+Govind S Nair
 Kim Seohyun
 echo r"0xX4H" | rev
 rudy3
